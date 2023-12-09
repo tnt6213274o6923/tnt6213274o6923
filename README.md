@@ -2,7 +2,7 @@
 <h3 align="center">i is dev in html css</h3>
 
 - tnt **tnt**
-<a href="tntlthl.tk" target="_blank" rel="noreferrer">wbe</a>
+<a href="https://tntlthl.tk" target="_blank" rel="noreferrer">wbe</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
