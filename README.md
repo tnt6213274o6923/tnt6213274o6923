@@ -1,5 +1,5 @@
 # 🚀 About Me
-I'm a full stack developer on  [advancesoftware](http://advancesoftware.info/)
+I'm a full stack developer and Organization ownerand Executive board in  [advancesoftware](http://advancesoftware.info/)
 # Other Common Github Profile Sections
 ## language
 
